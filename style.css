@@ -1,0 +1,25 @@
+
+	html { 
+		font-family: sans-serif; 
+	} 
+	
+	body { 
+		width: 50%; 
+		max-width: 800px; 
+		min-width: 480px; 
+		margin: 0 auto; 
+	} 
+    .rgb{
+        color: red;
+    }
+	.guessSubmit{
+        color: rgb(255, 255, 255);
+        background: rgb(161, 0, 161);
+        border-radius: 8px ;
+        cursor: pointer;
+
+    }
+    .guessUser{
+        color: rgb(0, 35, 75);
+        
+    }
