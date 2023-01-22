@@ -23,3 +23,17 @@
         color: rgb(0, 35, 75);
         
     }
+    input.guessSubmit:hover{
+        color: rgb(255, 255, 255);
+        background: rgb(30, 101, 255);
+    }
+    .animate{
+           height: 135px;
+           width: 135px;
+           margin-top: 45px;
+    }
+    @media(max-width:450px){
+   body {
+          margin: 45px 56px;
+   }}
+  
